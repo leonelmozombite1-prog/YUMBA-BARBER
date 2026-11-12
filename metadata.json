@@ -1,0 +1,6 @@
+{
+  "name": "YUMBA Barber Studio",
+  "description": "Sistema profesional de reservas online, gestión de servicios, tarjeta VIP de sellos, tienda y notificaciones automáticas por WhatsApp vía Twilio para YUMBA Barber Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
